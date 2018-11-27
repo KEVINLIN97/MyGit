@@ -1,1 +1,2 @@
 This is my first file in git
+Git is free software

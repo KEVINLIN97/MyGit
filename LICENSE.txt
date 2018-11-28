@@ -1,2 +1,3 @@
 My second git file.
 Nothing to say.
+new line.
